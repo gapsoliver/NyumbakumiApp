@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "97175719385",
+    "firebase_url": "https://nyumbakumiapp-24dda-default-rtdb.firebaseio.com",
+    "project_id": "nyumbakumiapp-24dda",
+    "storage_bucket": "nyumbakumiapp-24dda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97175719385:android:a1a710686e0223f4429dc8",
+        "android_client_info": {
+          "package_name": "com.example.nyumbakumiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97175719385-35921p3372fcm6cfi6ga1r6m0bme80ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrocVCU6YLU_4yzQOHUvDZbx5_ciV38Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97175719385-35921p3372fcm6cfi6ga1r6m0bme80ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
